@@ -1,6 +1,6 @@
-package org.lessons.java;
+package org.lessons.java.pool;
 
-public class Security {
+public class Pool {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
